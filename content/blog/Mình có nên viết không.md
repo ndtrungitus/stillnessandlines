@@ -2,7 +2,7 @@
 title= "Mình có nên viết không?"
 date= 2026-01-16
 tags= ["journal"]
-draft= true
+draft= false
 +++
 Câu hỏi này thỉnh thoảng vẫn xuất hiện trong đầu mình, mỗi khi bắt gặp một điều gì đó đủ mạnh để khơi gợi cảm hứng viết lách.
 
