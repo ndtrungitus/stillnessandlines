@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-us">
-
-<head>
-	<meta name="generator" content="Hugo 0.154.5"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>stillness &amp; lines | stillness &amp; lines</title>
-<meta name="title" content="stillness &amp; lines" />
-<meta name="description" content="" />
-<meta name="keywords" content="journal," />
-
-
-<meta property="og:url" content="http://localhost:1313/">
-  <meta property="og:site_name" content="stillness & lines">
-  <meta property="og:title" content="stillness & lines">
-  <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
-
-
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="stillness & lines">
-
-
-
-
-  <meta itemprop="name" content="stillness & lines">
-<meta name="referrer" content="no-referrer-when-downgrade" />
-
-  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="stillness & lines" />
-  <style>
+<style>
   :root {
     --width: 720px;
     --font-main: Verdana, sans-serif;
@@ -165,7 +132,7 @@
     overflow-x: auto;
   }
 
-   
+  /* blog post list */
   ul.blog-posts {
     list-style-type: none;
     padding: unset;
@@ -184,24 +151,3 @@
   }
 
 </style>
-
-</head>
-
-<body>
-  <header><a href="/" class="title">
-  <h2>stillness &amp; lines</h2>
-</a>
-<nav>
-</nav>
-</header>
-  <main>
-
-
-  </main>
-  <footer>© 2026 thoughts, code, and quiet moments.
-</footer>
-
-  
-</body>
-
-</html>
