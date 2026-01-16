@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on stillness &amp; lines</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 17:53:23 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/blog/my-new-post/</link>
+      <pubDate>Fri, 16 Jan 2026 17:53:23 +0700</pubDate>
+      <guid>http://localhost:1313/blog/my-new-post/</guid>
+      <description>&lt;h2 id=&#34;my-new-post&#34;&gt;My new post&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>Mình có nên viết không?</title>
       <link>http://localhost:1313/blog/m%C3%ACnh-c%C3%B3-n%C3%AAn-vi%E1%BA%BFt-kh%C3%B4ng/</link>

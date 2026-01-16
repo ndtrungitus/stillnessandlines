@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-16T17:53:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/my-new-post/</loc>
+    <lastmod>2026-01-16T17:53:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-16T17:53:23+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/journal/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/m%C3%ACnh-c%C3%B3-n%C3%AAn-vi%E1%BA%BFt-kh%C3%B4ng/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
