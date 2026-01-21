@@ -1,3 +1,15 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://stillnessandlines.pages.dev/'
 languageCode = 'en-us'
 title = 'stillness & lines'
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
